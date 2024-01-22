@@ -2,7 +2,7 @@
 Capstone Project
 # Project Title:
 Advanced Statistical Modeling of Economic Indicators: A LASSO Regression Approach
-# Dataset Return to Schooling
+# Dataset: Return to Schooling
 Return to Schooling
 Description
 a panel of 48 observations from 1970 to 1986
